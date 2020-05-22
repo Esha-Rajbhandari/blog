@@ -1,0 +1,57 @@
+li{
+    list-style: none;
+}
+
+.card{
+    margin-top: 50px;
+}
+
+.login-btn{
+    margin-top: 10px;
+    width: 100px;
+}
+
+.text-danger{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.error:focus{
+    border-color: #ff80ff;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.075) inset, 0px 0px 8px rgba(255, 100, 255, 0.5);
+}
+
+.date_posted{
+    font-size: 12px;
+    color: lightgrey;
+}
+
+.about-content{
+    text-align: justify;
+}
+
+.blog-title{
+    font-size: 18px;
+}
+
+.blog-content{
+    font-size: 14px;
+}
+
+.logout{
+    cursor: pointer;
+}
+
+.row{
+    margin-top: 10px;
+}
+
+.card-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.post-action ul{
+    display: flex;
+    justify-content: space-between;
+}
